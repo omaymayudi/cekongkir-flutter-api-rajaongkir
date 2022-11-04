@@ -1,0 +1,11 @@
+{
+    "service":"REG",
+    "description":"Layanan Reguler",
+    "cost":[
+       {
+          "value":44000,
+          "etd":"2-3",
+          "note":""
+       }
+    ]
+ }
